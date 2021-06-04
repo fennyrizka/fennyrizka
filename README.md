@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fennyrizka
 - 👀 I’m interested in educational content
 - 🌱 I’m currently learning International Relations
-- 💞️ 
 - 📫 fenny18001@mail.unpad.ac.id
 
 <!---
